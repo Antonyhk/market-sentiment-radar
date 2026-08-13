@@ -1,0 +1,5 @@
+timestamp,source_type,company_or_topic,event_tag,narrative_label,sentiment_label,evidence_excerpt,analyst_note,confidence
+2026-01-15T09:00:00Z,company_disclosure,ExampleCo,FY2025_results,Recurring-revenue growth discussion,positive,"Hypothetical sample: company communication highlights recurring-revenue growth.","Verify reported growth, retention, and margin trend in primary disclosures.",high
+2026-01-15T12:00:00Z,professional_media,ExampleCo,FY2025_results,Margin-pressure concern,negative,"Hypothetical sample: attributed commentary focuses on margin pressure.","Compare the stated concern with gross-margin disclosures and management guidance.",medium
+2026-01-16T08:00:00Z,public_social,ExampleCo,FY2025_results,Product-demand debate,mixed,"Hypothetical sample: public discussion contains both favourable and unfavourable demand views.","Identify whether an external demand indicator or company KPI can confirm either view.",low
+2026-01-16T18:00:00Z,search_trend,ExampleCo,FY2025_results,Elevated attention,neutral,"Hypothetical sample: search attention increases after results.","Treat as attention context only; do not infer business quality or price direction.",low
